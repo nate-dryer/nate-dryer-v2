@@ -1,20 +1,17 @@
-<div style="text-align:center">
+<p align="center">
   <img src="https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3" alt="Header Image" width="750"/>
-</div>
+</p>
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 [![Resume](https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/nate-dryer?theme=rickosborne)
-[![Personal Site](https://img.shields.io/badge/natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
 
 ## Hi there, I'm Nate 👋
   
 **AI Product Leader** with 10+ years experience transforming business challenges into innovative digital solutions. I specialize in leveraging AI/ML, user-centric design, and data-driven insights to build products that deliver measurable impact—from scaling user growth 20x to reducing operational costs by $1M+.
 
-### My Projects
-
-<details open>
-<summary><b>Current Initiatives</b></summary>
+## My Projects
 
 - 🚀 **[AI Trainers](https://www.aitrainers.io)** — Founded a volunteer group making AI accessible through free trainings and resources. Recently facilitated workshops for Cincinnati Public Libraries (May 2024).
 
@@ -22,49 +19,43 @@
 
 - 📝 **[Dynamic Resume Generator](https://nate-dryer.github.io/resume.html)** — Developing an interface that auto-generates context-appropriate resumes using the JSON Resume standard with GitHub Pages.
 
-</details>
+## My Expertise
 
-### My Expertise
+### AI/Product Strategy  
+![LLM Implementation](https://img.shields.io/badge/LLM_Implementation-412991?style=flat-square&logo=openai&logoColor=white)
+![Product-Led Growth](https://img.shields.io/badge/Product_Led_Growth-0078D4?style=flat-square)
+![AI Strategy](https://img.shields.io/badge/AI_Strategy-6236FF?style=flat-square)
+![Data-Driven Decisions](https://img.shields.io/badge/Data_Driven_Decisions-DC143C?style=flat-square)
 
-<details open>
-<summary><b>Skills & Technologies</b></summary>
+### AI/ML Technologies  
+![LangChain](https://img.shields.io/badge/LangChain-00A3E0?style=flat-square&logo=chainlink&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-FF4500?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-| Category | Skills |
-|---|---|
-| **AI/Product Strategy** | ![LLM Implementation](https://img.shields.io/badge/LLM_Implementation-412991?style=flat-square&logo=openai&logoColor=white) ![Product-Led Growth](https://img.shields.io/badge/Product_Led_Growth-0078D4?style=flat-square) ![AI Strategy](https://img.shields.io/badge/AI_Strategy-6236FF?style=flat-square) ![Data-Driven Decisions](https://img.shields.io/badge/Data_Driven_Decisions-DC143C?style=flat-square) |
-| **AI/ML Technologies** | ![LangChain](https://img.shields.io/badge/LangChain-00A3E0?style=flat-square&logo=chainlink&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-FF4500?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
-| **Product Management** | ![Product Roadmapping](https://img.shields.io/badge/Roadmapping-DAA520?style=flat-square) ![User Research](https://img.shields.io/badge/User_Research-FF6347?style=flat-square) ![Cross-Functional Leadership](https://img.shields.io/badge/Cross_Functional_Teams-6F2DA8?style=flat-square) ![Product Vision](https://img.shields.io/badge/Product_Vision-0078D4?style=flat-square) |
-| **Technical & Design** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black) |
+### Product Management  
+![Product Roadmapping](https://img.shields.io/badge/Roadmapping-DAA520?style=flat-square)
+![User Research](https://img.shields.io/badge/User_Research-FF6347?style=flat-square)
+![Cross-Functional Leadership](https://img.shields.io/badge/Cross_Functional_Teams-6F2DA8?style=flat-square)
+![Product Vision](https://img.shields.io/badge/Product_Vision-0078D4?style=flat-square)
 
-</details>
+### Technical & Design  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
 
-### Professional Impact
+## Professional Impact
 
-<details>
-<summary><b>Key Achievements</b></summary>
+- **20x User Growth** — Expanded mobile banking users from 20K to 400K in one year
+- **$1M+ Cost Savings** — Implemented analytics-driven process optimization across multiple departments
+- **166% MAU Increase** — Grew active mobile users through AI-powered sentiment analysis integration
+- **40pt NPS Improvement** — Launched AI-powered collaboration platform increasing satisfaction
 
-<table>
-  <tr>
-    <td align="center"><b>20x</b><br>User Growth</td>
-    <td align="center"><b>$1M+</b><br>Cost Savings</td>
-    <td align="center"><b>166%</b><br>MAU Increase</td>
-    <td align="center"><b>40pt</b><br>NPS Improvement</td>
-  </tr>
-</table>
-
-- **AI Implementation** — Deployed custom LLM solutions delivering $375K annual savings through 25% operational efficiency improvements
-- **Product Innovation** — Launched AI-powered collaboration platform increasing NPS from -15 to +25
-- **Product-Led Growth** — Expanded mobile banking users from 20K to 400K (1,900% increase) in one year
-- **Cross-Functional Leadership** — United 7 legacy applications into a single platform with 70% adoption rate
-
-</details>
-
-### Get in Touch
+## Get in Touch
 
 💬 I'm always interested in discussing AI product development, innovative use cases for LLMs, and opportunities to create user-centric solutions that drive measurable impact.
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nate-dryer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nate-dryer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
